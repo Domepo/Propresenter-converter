@@ -1,5 +1,5 @@
 
-Loop, Files, C:\Users\BeamerPc\Desktop\Gottesdienst\18.04.2010 Braunes Liederbuch\Alle\*.ppt
+Loop, Files, C:\Users\*.ppt
 {	
 	run %A_LoopFileFullPath%
 	Sleep, 1000
